@@ -22,7 +22,7 @@ A simple Swift logging library for macOS apps. Log messages at different levels 
 1. In Xcode, choose **File ▸ Add Packages…**
 2. Enter the URL of this repository:
    ```
-   https://github.com/YourUserName/LoggerHelper.git
+   https://github.com/Krusty84/LoggerHelper.git
    ```
 3. Select the version (for example, Up to Next Major 1.0.0) and add it to your app target.
 
