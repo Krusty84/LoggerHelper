@@ -9,10 +9,15 @@ A simple Swift logging library for macOS apps. Log messages at different levels 
 ## Features
 
 ✅ Four log levels: **info**, **warning**, **debug**, **error**
+
 ✅ Enable or disable all logging with one flag
+
 ✅ Default subsystem is your app’s bundle identifier (overrideable)
+
 ✅ Default category is "General" (overrideable)
+
 ✅ Each log entry includes file name, line number, and function name
+
 
 ## Requirements
 
