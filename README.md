@@ -28,9 +28,9 @@ A simple Swift logging library for macOS apps. Log messages at different levels 
 
 ## Usage
 
-1. **Enable logging** early in your app (e.g. in `AppDelegate`):
+1. **Enable logging** early in your app:
 
-   ```swift
+```swift
 import SwiftUI
 import LoggerHelper
 
@@ -77,8 +77,7 @@ struct ContentView: View {
         }
     }
 }
-
-   ```
+```
 
 2. **Log with defaults**:
 
