@@ -1,3 +1,7 @@
+[![Swift Package Index](https://img.shields.io/badge/swift--package--index-LoggerHelper-blue)](https://swiftpackageindex.com/Krusty84/LoggerHelper)
+![Swift](https://img.shields.io/badge/swift-5.7-orange)
+[![Platform](https://img.shields.io/badge/platform-macOS%2010.15%2B-lightgrey)](https://developer.apple.com/macos/)
+
 # LoggerHelper
 
 A simple Swift logging library for macOS apps. Log messages at different levels (info, warning, debug, error), control logging globally, and customize subsystem and category for each message.
